@@ -1,2 +1,2 @@
-# hack-fun
+# About
 This is Just for fun it is only a shell script.
