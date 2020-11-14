@@ -1,2 +1,2 @@
 # hacking-gun
-Just for fun this is only a shell script.
+This is Just for fun it is only a shell script.
