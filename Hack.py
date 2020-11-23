@@ -1,8 +1,6 @@
 print("Hacker2007")
 print("black hat hacker")
-name = 
-input('What is your name?\n')
-print ('Hi, %s.' % name)
+input('What is your name?')
 # Python Program - Get String Input from User
 str = input("Enter any string: ")
 print(str)
