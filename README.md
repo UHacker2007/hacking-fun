@@ -1,2 +1,2 @@
 # About
-This is Just for fun it is only a shell script.
+This is Just for fun it is only a python and shell script.
